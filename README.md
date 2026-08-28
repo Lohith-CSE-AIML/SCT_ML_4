@@ -265,8 +265,7 @@ SCT_ML_4/
 ├── .gitignore
 └── screenshots/
     ├── streamlit_app.png
-    ├── prediction.png
-    └── github_repo.png
+   
 ```
 
 ---
